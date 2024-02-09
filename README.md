@@ -4,9 +4,9 @@
 
 This project focuses on creating a comprehensive Business Intelligence (BI) solution for a client's sales data. The client provided a CSV file containing a wide table with all available sales data. The objective was to clean, transform, and analyze the data to derive meaningful insights and key performance indicators (KPIs) for informed decision-making.
 
+![PBIDesktop_5trJjkw1J6](https://github.com/alm-safwat/BI-Sales-Analytics-Powering-Decisions-with-Data-driven-Insights/assets/135442913/a4fcbb33-b528-4057-9797-a1381b0dbb0c)
 
-## Key Steps![PBIDesktop_5trJjkw1J6](https://github.com/alm-safwat/BI-Sales-Analytics-Powering-Decisions-with-Data-driven-Insights/assets/135442913/a4fcbb33-b528-4057-9797-a1381b0dbb0c)
-
+## Key Steps
 
 1. **Understanding the Business**: Spent time understanding the client's business operations, goals, and required KPIs from the sales data.
 
