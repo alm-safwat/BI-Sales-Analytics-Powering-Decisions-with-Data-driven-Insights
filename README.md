@@ -58,3 +58,6 @@ This project focuses on creating a comprehensive Business Intelligence (BI) solu
 - Enhance the dashboard with additional interactivity and drill-down capabilities for deeper analysis.
 - Implement scheduled data refreshes to keep the dashboard up-to-date with the latest sales data.
 
+## Dashboard Link:
+[View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNmMxZDZkYTItYzM5NS00NjJlLWE1ZTItOTIyMTc2YjljY2E2IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
+
